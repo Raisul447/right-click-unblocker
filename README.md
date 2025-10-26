@@ -39,3 +39,8 @@ Works with all Chromium-based browsers, tested on:
 ## 📌 Notes
 Works on most websites that try to block right-click or text selection
 May not work on some advanced web apps with deeply integrated protections
+
+## ⚖️ License & Copyright
+- Copyright © **Raisul Islam Shagor** 
+- Contact: deploy@raisul.dev
+- Website: https://raisul.dev/
